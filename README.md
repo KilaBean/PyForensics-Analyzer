@@ -106,4 +106,14 @@ Remote Capture: Allowing the tool to connect to remote sensors via SSH.
 
 Machine Learning: Integrating an ML model to detect anomaly-based threats (e.g., DDoS patterns) that bypass signature detection.
 
-End of Report
+
+## 📸 Screenshots
+
+### 1. Main Interface
+![Dashboard](screenshots/main_interface.png)
+*Professional Tabs showing device and network info.*
+
+### 2. Packet Details, Deep Inspection & GeoIP, Threat Intelligence Module
+*Layer-by-layer packet decoding with integrated Geo-Location lookup.*
+*Automated detection of malicious payloads (SQLi, RCE) with instant visual alerting.*
+![Packet Details](screenshots/packet_details.png)
