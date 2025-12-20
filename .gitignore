@@ -1,0 +1,19 @@
+# Python compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+venv/
+env/
+.env
+
+# Project specific data (Too large or sensitive)
+*.pcap
+*.pcapng
+*.log
+src/pyforensics/data/GeoLite2-City.mmdb
+GeoLite2-City.mmdb
+
+# IDE settings
+.vscode/
+.idea/
