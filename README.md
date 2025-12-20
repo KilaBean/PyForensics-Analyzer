@@ -80,7 +80,7 @@ Bash
 download
 content_copy
 expand_less
-git clone https://github.com/YOUR_USERNAME/PyForensics-Analyzer.git
+git clone https://github.com/KilaBean/PyForensics-Analyzer.git
 cd PyForensics-Analyzer
 
 Create a Virtual Environment (Recommended)
@@ -127,7 +127,3 @@ TLS Decryption: Support for key-log files to decrypt HTTPS traffic.
 Remote Capture: SSH tunneling to capture from remote sensors.
 
 Machine Learning: Anomaly-based threat detection for patterns that bypass signatures.
-
-📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
